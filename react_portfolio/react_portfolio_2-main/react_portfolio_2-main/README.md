@@ -16,7 +16,7 @@
 + and more....
 
 # live preview link
-http://192.168.0.136:5173//
+http://192.168.0.136:5173/
 
 # Startup repository link
 https://github.com/sowmiyapeace0101/portfolionew.git
