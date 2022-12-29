@@ -16,7 +16,7 @@
 + and more....
 
 # live preview link
-https://codeaprogram-portfolio.web.app/
+http://192.168.0.136:5173//
 
 # Startup repository link
 https://github.com/Sridhar-C-25/React_portfolio_2_startup
