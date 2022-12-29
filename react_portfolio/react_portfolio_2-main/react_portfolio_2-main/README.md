@@ -19,7 +19,7 @@
 http://192.168.0.136:5173//
 
 # Startup repository link
-https://github.com/Sridhar-C-25/React_portfolio_2_startup
+https://github.com/sowmiyapeace0101/portfolionew.git
 
 # packages:
 + tailwind css - https://tailwindcss.com/docs/installation
